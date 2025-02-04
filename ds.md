@@ -3,8 +3,8 @@ Pros         | Cons
 Content Cell | Content Cell
 Content Cell | Content Cell
 ```
-**GRST**
-***GRST***
-*Ds3 guide
-  *DOD
-    *FKeep
+_GRST_
+__GRST__
+* Ds3 TDL
+  * DOD
+    * FKeep
