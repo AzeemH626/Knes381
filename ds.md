@@ -3,8 +3,9 @@ Pros         | Cons
 Content Cell | Content Cell
 Content Cell | Content Cell
 ```
-Markup : _GRST_
-Markup: __GRST__
+*GRST*
+**GRST**
 * Ds3 TDL
   * DOD
     * FKeep
+~~CS~~
