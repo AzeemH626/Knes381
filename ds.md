@@ -4,7 +4,11 @@ Content Cell | Content Cell
 Content Cell | Content Cell
 
 
-# CHANNEL ORANGE
+<h1 align="center">
+Channel Orange
+</h1>
+
+<p> V<sup>.</sup>O2 </p>
 
 ![](image/channelO.jpg)
 
