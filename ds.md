@@ -1,19 +1,22 @@
-Pros         | Cons
------------- | ------------
-Content Cell | Content Cell
-Content Cell | Content Cell
-
 
 <h1 align="center">
-Channel Orange
+World Renowed Albums 
 </h1>
 
-<p> V<sup>.</sup>O2 </p>
+Channel         | Orange
+------------ | ------------
+![Click Me](readme.md) | <img src="image/channelO.jpg">
+Frank        | Ocean
 
-![](image/channelO.jpg)
 
 
-![Click Me](readme.md)
+
+<p> Listening increases V0<sub>2</sub> by 100% </p>
+
+
+
+
+
 
 
 
