@@ -5,7 +5,7 @@ World Renowed Albums
 
 Channel         | Orange
 ------------ | ------------
-![Click Me](readme.md) | <img src="image/channelO.jpg">
+![Link](readme.md) <-Click Click | <img src="image/channelO.jpg">
 Frank        | Ocean
 
 <a href="https://www.youtube.com/watch?v=uaLV003llhY&list=PLX68ZEYlh74vDJY4XR775HHifYT7IeXsj&index=13" style="text-decoration: none;">Sample</a>
